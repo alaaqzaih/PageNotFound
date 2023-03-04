@@ -16,11 +16,10 @@ function NotFoundComp() {
                     </div>
                 </div>
                 <div className="imagewrapper">
-                    <img className='img1' src='https://hearlifeagain.alpacaaudiology.com/wp-content/themes/alpaca-child/_images/halftone-02.svg' ></img>
+                    <img className='imgAnimation' src='https://hearlifeagain.alpacaaudiology.com/wp-content/themes/alpaca-child/_images/halftone-02.svg' ></img>
                         <img src='https://hearlifeagain.alpacaaudiology.com/wp-content/uploads/sites/16/2021/02/spools-out-660x886.jpg'></img>
                     </div>
                 </div>
-
                 </div>
         </section>
     )
